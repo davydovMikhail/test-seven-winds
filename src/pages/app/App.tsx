@@ -4,6 +4,8 @@ import shevDown from "../../img/chevron-down.svg"
 import grid from "../../img/grid.svg"
 import reply from "../../img/reply.svg"
 import columns from "../../img/columns.svg"
+import Heading from "../../components/heading/heading"
+import Section from "../../components/section/section"
 
 function App() {
   return (
@@ -69,7 +71,11 @@ function App() {
             </div>
           </div>
         </div>
-        <div className={s.tablo + ' ' + s.borderWhite + ' ' + s.backgroundTwo}>Tablo</div>
+        <div className={s.tablo + ' ' + s.borderWhite + ' ' + s.backgroundTwo}>
+          <Heading />
+          <Section />
+          <Section />
+        </div>
     </div>
   );
 }

@@ -1,0 +1,41 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.section {
+    width: calc(auto - 500px);
+    display: grid;
+    align-items: center;
+    grid-template-columns: 115px 1fr 207px 207px 207px 207px;
+    margin: 0 12px 12px 12px;
+    padding-top: 12px;
+    border-top: 1px solid rgba(130, 127, 127, 0.9);
+    &__item {
+        padding: 12px;
+        color: rgba(255, 255, 255, 1);
+    }
+    &__level {
+        display: flex;
+    }
+    &__input {
+        background: transparent;
+        border: 1px solid rgba(255, 255, 255, 0.34);
+        border-radius: 5px;
+        margin-right: 30px;
+        margin-left: 12px;
+        height: 30px;
+        color: rgba(255, 255, 255, 0.34);
+    }
+    &__icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 29px;
+        height: 29px;
+        cursor: pointer;
+        &_hover {
+            background-color: rgba(130, 127, 127, 0.35);
+        }
+    }
+}
