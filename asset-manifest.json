@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/test-seven-winds/static/css/main.bd9d7416.css",
-    "main.js": "/test-seven-winds/static/js/main.37f05938.js",
+    "main.css": "/test-seven-winds/static/css/main.4d812ccb.css",
+    "main.js": "/test-seven-winds/static/js/main.daa43ade.js",
     "static/media/grid.svg": "/test-seven-winds/static/media/grid.b1b38b627feb7bad6af990de1fab6058.svg",
     "index.html": "/test-seven-winds/index.html",
     "static/media/columns.svg": "/test-seven-winds/static/media/columns.3b00b744337261074556250b8c85f111.svg",
+    "static/media/trash.svg": "/test-seven-winds/static/media/trash.e9f3bcf1a6b88a8f7043745293783719.svg",
+    "static/media/file.svg": "/test-seven-winds/static/media/file.72e4eb3d16d156369453b930c2e96f61.svg",
     "static/media/reply.svg": "/test-seven-winds/static/media/reply.9f7ca36be7630a709a5baab0c42bec8e.svg",
     "static/media/chevron-down.svg": "/test-seven-winds/static/media/chevron-down.4ed4b1c59328d88573a706af212ce4d1.svg",
-    "main.bd9d7416.css.map": "/test-seven-winds/static/css/main.bd9d7416.css.map",
-    "main.37f05938.js.map": "/test-seven-winds/static/js/main.37f05938.js.map"
+    "main.4d812ccb.css.map": "/test-seven-winds/static/css/main.4d812ccb.css.map",
+    "main.daa43ade.js.map": "/test-seven-winds/static/js/main.daa43ade.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd9d7416.css",
-    "static/js/main.37f05938.js"
+    "static/css/main.4d812ccb.css",
+    "static/js/main.daa43ade.js"
   ]
 }
